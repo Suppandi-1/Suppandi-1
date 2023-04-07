@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suppandi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C-lang
-- 💞️ I’m looking to collaborate on any open source development based on C
+- 👀 I’m interested in Os-dev
+- 🌱 I’m currently learning Css -Js
+- 💞️ I’m looking to collaborate on any open source
 - 📫 How to reach me Suppandi1@outlook.com
 
 <!---
